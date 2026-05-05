@@ -50,7 +50,7 @@ kubectl port-forward svc/hello-world 8080:80
 
 Abrir en el navegador de Windows: `http://localhost:8080`
 
-## 7. Desplegar con Argo CD (opcional)
+## 7. Desplegar con Argo CD 
 
 ```bash
 kubectl create namespace argocd
